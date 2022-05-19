@@ -112,7 +112,7 @@ export default function Card() {
                     onChange={handleChange}
                 />
                 <div className="card">
-                    <img src={card.backgroundImage} className="card--image" />
+                    <img src={card.backgroundImage} className="card--image" alt="imageCard"/>
                     <span className="card--text phone">{card.phNo}</span>
                     <span className="card--text companyName">{card.companyName}</span>
                     <span className="card--text companyTagline">{card.companyTagline}</span>
