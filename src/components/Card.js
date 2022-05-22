@@ -33,7 +33,7 @@ export default function Card() {
         firstName: "NAVJOT",
         lastName: "RATHEE",
         designation: "FULL STACK DEVELOPER",
-        fullAddress: "3174, SECTOR-1,ROHTAK",
+        fullAddress: "174, SECTOR-1,ROHTAK",
         backgroundImage: "./images/patrick-bateman-card-background.png" 
         }))   
     }
